@@ -1,0 +1,80 @@
+@prefix : <http://example.org/> .
+
+:record1 :ANNO DECISIONE "2019" ; :FATTISPECIE "Mancato rispetto degli impegni" ; :ESITO "Violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record2 :ANNO DECISIONE "2019" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Non violazione" ; :NUMERO "2" ; :SANZIONE "0" .
+:record3 :ANNO DECISIONE "2019" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 2 della L. 287/1990" ; :NUMERO "1" ; :SANZIONE "0" .
+:record4 :ANNO DECISIONE "2019" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Autorizzate con condizioni" ; :NUMERO "5" ; :SANZIONE "0" .
+:record5 :ANNO DECISIONE "2019" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Non applicabilità della legge" ; :NUMERO "1" ; :SANZIONE "0" .
+:record6 :ANNO DECISIONE "2019" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Non applicabilità della legge" ; :NUMERO "1" ; :SANZIONE "0" .
+:record7 :ANNO DECISIONE "2019" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Violazione" ; :NUMERO "7" ; :SANZIONE "830000" .
+:record8 :ANNO DECISIONE "2019" ; :FATTISPECIE "Intese" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record9 :ANNO DECISIONE "2019" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 101 del TFUE" ; :NUMERO "7" ; :SANZIONE "476437125,2" .
+:record10 :ANNO DECISIONE "2019" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Accettazione impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record11 :ANNO DECISIONE "2019" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Revoca impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record12 :ANNO DECISIONE "2019" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Violazione dell'art. 102 del TFUE" ; :NUMERO "3" ; :SANZIONE "1599365,82" .
+:record13 :ANNO DECISIONE "2019" ; :FATTISPECIE "Abuso di dipendenza economica" ; :ESITO "Violazione dell'art. 9 della L. 192/1998" ; :NUMERO "1" ; :SANZIONE "321597,17" .
+:record14 :ANNO DECISIONE "2019" ; :FATTISPECIE "Rideterminazione sanzioni" ; :ESITO "Rideterminazione sanzione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record15 :ANNO DECISIONE "2019" ; :FATTISPECIE "Indagini conoscitive" ; :ESITO "Concluse" ; :NUMERO "1" ; :SANZIONE "0" .
+:record16 :ANNO DECISIONE "2020" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Violazione" ; :NUMERO "2" ; :SANZIONE "103292" .
+:record17 :ANNO DECISIONE "2020" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Non applicabilità della legge" ; :NUMERO "1" ; :SANZIONE "0" .
+:record18 :ANNO DECISIONE "2020" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Violazione" ; :NUMERO "1" ; :SANZIONE "153621" .
+:record19 :ANNO DECISIONE "2020" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 2 della L. 287/1990" ; :NUMERO "1" ; :SANZIONE "10059" .
+:record20 :ANNO DECISIONE "2020" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Autorizzate con condizioni" ; :NUMERO "5" ; :SANZIONE "0" .
+:record21 :ANNO DECISIONE "2020" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Modifica misure precedentemente imposte" ; :NUMERO "1" ; :SANZIONE "0" .
+:record22 :ANNO DECISIONE "2020" ; :FATTISPECIE "Intese" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record23 :ANNO DECISIONE "2020" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 101 del TFUE" ; :NUMERO "2" ; :SANZIONE "202527567,4" .
+:record24 :ANNO DECISIONE "2020" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Accettazione impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record25 :ANNO DECISIONE "2020" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Violazione dell'art. 102 del TFUE" ; :NUMERO "3" ; :SANZIONE "154368886,6" .
+:record26 :ANNO DECISIONE "2020" ; :FATTISPECIE "Rideterminazione sanzioni" ; :ESITO "Rideterminazione sanzione" ; :NUMERO "6" ; :SANZIONE "0" .
+:record27 :ANNO DECISIONE "2021" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Violazione" ; :NUMERO "1" ; :SANZIONE "5000" .
+:record28 :ANNO DECISIONE "2021" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record29 :ANNO DECISIONE "2021" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Violazione" ; :NUMERO "1" ; :SANZIONE "12230,8" .
+:record30 :ANNO DECISIONE "2021" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 2 della L. 287/1990" ; :NUMERO "1" ; :SANZIONE "1258144" .
+:record31 :ANNO DECISIONE "2021" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Autorizzate con condizioni" ; :NUMERO "5" ; :SANZIONE "0" .
+:record32 :ANNO DECISIONE "2021" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Non applicabilità della legge" ; :NUMERO "1" ; :SANZIONE "0" .
+:record33 :ANNO DECISIONE "2021" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record34 :ANNO DECISIONE "2021" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Non violazione" ; :NUMERO "4" ; :SANZIONE "0" .
+:record35 :ANNO DECISIONE "2021" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Violazione" ; :NUMERO "11" ; :SANZIONE "27000" .
+:record36 :ANNO DECISIONE "2021" ; :FATTISPECIE "Intese" ; :ESITO "Accettazione impegni" ; :NUMERO "5" ; :SANZIONE "0" .
+:record37 :ANNO DECISIONE "2021" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 101 del TFUE" ; :NUMERO "1" ; :SANZIONE "173274411" .
+:record38 :ANNO DECISIONE "2021" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Accettazione impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record39 :ANNO DECISIONE "2021" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Non applicabilità della legge" ; :NUMERO "1" ; :SANZIONE "0" .
+:record40 :ANNO DECISIONE "2021" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Non violazione" ; :NUMERO "2" ; :SANZIONE "0" .
+:record41 :ANNO DECISIONE "2021" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Violazione dell'art. 102 del TFUE" ; :NUMERO "3" ; :SANZIONE "1230726636" .
+:record42 :ANNO DECISIONE "2021" ; :FATTISPECIE "Abuso di dipendenza economica" ; :ESITO "Violazione dell'art. 9 della L. 192/1998" ; :NUMERO "1" ; :SANZIONE "11296629" .
+:record43 :ANNO DECISIONE "2021" ; :FATTISPECIE "Rideterminazione sanzioni" ; :ESITO "Rideterminazione sanzione" ; :NUMERO "2" ; :SANZIONE "0" .
+:record44 :ANNO DECISIONE "2022" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record45 :ANNO DECISIONE "2022" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Violazione" ; :NUMERO "1" ; :SANZIONE "21000" .
+:record46 :ANNO DECISIONE "2022" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Modifica misure precedentemente imposte" ; :NUMERO "1" ; :SANZIONE "0" .
+:record47 :ANNO DECISIONE "2022" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record48 :ANNO DECISIONE "2022" ; :FATTISPECIE "Inottemperanze alla diffida o all’obbligo di comunicazione preventiva" ; :ESITO "Violazione" ; :NUMERO "2" ; :SANZIONE "291460,33" .
+:record49 :ANNO DECISIONE "2022" ; :FATTISPECIE "Intese" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record50 :ANNO DECISIONE "2022" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Violazione dell'art. 3 della L. 287/1990" ; :NUMERO "1" ; :SANZIONE "3719370" .
+:record51 :ANNO DECISIONE "2022" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Autorizzate con condizioni" ; :NUMERO "3" ; :SANZIONE "0" .
+:record52 :ANNO DECISIONE "2022" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record53 :ANNO DECISIONE "2022" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Modifica misure precedentemente imposte" ; :NUMERO "1" ; :SANZIONE "0" .
+:record54 :ANNO DECISIONE "2022" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record55 :ANNO DECISIONE "2022" ; :FATTISPECIE "Intese" ; :ESITO "Accettazione impegni" ; :NUMERO "3" ; :SANZIONE "0" .
+:record56 :ANNO DECISIONE "2022" ; :FATTISPECIE "Intese" ; :ESITO "Ritirata" ; :NUMERO "1" ; :SANZIONE "0" .
+:record57 :ANNO DECISIONE "2022" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 2 della L. 287/1990" ; :NUMERO "1" ; :SANZIONE "36785" .
+:record58 :ANNO DECISIONE "2022" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 101 del TFUE" ; :NUMERO "4" ; :SANZIONE "13625579,59" .
+:record59 :ANNO DECISIONE "2022" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Accettazione impegni" ; :NUMERO "3" ; :SANZIONE "0" .
+:record60 :ANNO DECISIONE "2022" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Violazione dell'art. 102 del TFUE" ; :NUMERO "2" ; :SANZIONE "7198793,76" .
+:record61 :ANNO DECISIONE "2022" ; :FATTISPECIE "Abuso di dipendenza economica" ; :ESITO "Accettazione impegni" ; :NUMERO "3" ; :SANZIONE "0" .
+:record62 :ANNO DECISIONE "2022" ; :FATTISPECIE "Rideterminazione sanzioni" ; :ESITO "Rideterminazione sanzione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record63 :ANNO DECISIONE "2023" ; :FATTISPECIE "Mancato rispetto degli impegni" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record64 :ANNO DECISIONE "2023" ; :FATTISPECIE "Altre casistiche Concorrenza" ; :ESITO "Violazione" ; :NUMERO "2" ; :SANZIONE "33000" .
+:record65 :ANNO DECISIONE "2023" ; :FATTISPECIE "Intese" ; :ESITO "Accettazione impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record66 :ANNO DECISIONE "2023" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 2 della L. 287/1990" ; :NUMERO "1" ; :SANZIONE "4287186,97" .
+:record67 :ANNO DECISIONE "2023" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record68 :ANNO DECISIONE "2023" ; :FATTISPECIE "Concentrazioni" ; :ESITO "Autorizzate con condizioni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record69 :ANNO DECISIONE "2023" ; :FATTISPECIE "Intese" ; :ESITO "Accettazione impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record70 :ANNO DECISIONE "2023" ; :FATTISPECIE "Intese" ; :ESITO "Modifica misure precedentemente imposte" ; :NUMERO "1" ; :SANZIONE "0" .
+:record71 :ANNO DECISIONE "2023" ; :FATTISPECIE "Intese" ; :ESITO "Non violazione" ; :NUMERO "2" ; :SANZIONE "0" .
+:record72 :ANNO DECISIONE "2023" ; :FATTISPECIE "Intese" ; :ESITO "Violazione dell'art. 101 del TFUE" ; :NUMERO "2" ; :SANZIONE "8489960,03" .
+:record73 :ANNO DECISIONE "2023" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Accettazione impegni" ; :NUMERO "3" ; :SANZIONE "0" .
+:record74 :ANNO DECISIONE "2023" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Non violazione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record75 :ANNO DECISIONE "2023" ; :FATTISPECIE "Abuso di posizione dominante" ; :ESITO "Violazione dell'art. 102 del TFUE" ; :NUMERO "1" ; :SANZIONE "15117795" .
+:record76 :ANNO DECISIONE "2023" ; :FATTISPECIE "Abuso di dipendenza economica" ; :ESITO "Accettazione impegni" ; :NUMERO "1" ; :SANZIONE "0" .
+:record77 :ANNO DECISIONE "2023" ; :FATTISPECIE "Rideterminazione sanzioni" ; :ESITO "Rideterminazione sanzione" ; :NUMERO "1" ; :SANZIONE "0" .
+:record78 :ANNO DECISIONE "2023" ; :FATTISPECIE "Indagini conoscitive" ; :ESITO "Concluse" ; :NUMERO "1" ; :SANZIONE "0" .
